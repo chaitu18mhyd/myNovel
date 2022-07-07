@@ -1,2 +1,6 @@
 Main actors - KC, Manasa
+<<<<<<< HEAD
 Stage - JNTUCEH, Kukatpally Hyderabad
+=======
+Stage - Jawaharlal Nehru Technological University, Kukatpally, Hyderabad
+>>>>>>> chapter2
