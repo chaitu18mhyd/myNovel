@@ -1,0 +1,6 @@
+Goblet of fire - is the fire that selects participants
+participants
+    Harry Potter
+    Cedric
+    Girl
+    Boy
